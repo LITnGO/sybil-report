@@ -1,0 +1,76 @@
+---
+name: Sybil Report
+about: Report Sybil Activity on LayerZero
+title: "[Sybil Report]"
+labels: under review
+assignees: LayerZero-GH
+
+---
+
+# Reported Addresses: These address have the same actions, protocols, times.
+0x21c164f33fef2d72c9c7d703a19157fa2de9638c
+0x7664b3e97058768aab7e35a4faccf206d87941fe
+0x11ad13f699b3375173589df2d1202c985d762000
+0xc88923f4fb059df300cbd9667361cc457f78fec5
+0xb05df32751dee1ab3df184457149d0eb91ee3a4f
+0x0c474aec469e8a7ec6647ff510b22feea7add7e7
+0x509b99b47f20df1e6a3d0fe3c99b4836a9933554
+0x75121818f53a096c7ca0aec8cf628fbee1a283a9
+0xed9de0cff5f9fad32192cf08f33ed674e13be18a
+0x28e37dcde1cb2f8884e932e367eec4428a972477
+0xc15aae2af578a81f8384f9d8063b7e2537e7a052
+0xa71c397da134e01d65e9ca2e0c9306f4954ac202
+0x2f5394d84cee418d16f1cd6671a8afbf91ae8b86
+0x3a1b87dcf327548ef63a7bab9a72aad978be6bab
+0xa6f0fba851abd47be805156393c8a88fec34affb
+0xba1e6599ca9e1e2c91a889029d9be77420d9d965
+0xeef0f654c3329a8afccfa4f3142aac21bea0eff0
+0x4fac269b2fd84d949bc5894faad684c9a491f7cc
+0x7ce605ded3566995cdf7210d225c948c1e4b3975
+0xf723675c2133b4bcebd65750e97d79a310ddb3d3
+0x1983473d2804c7472a2ae4fd7f4c92aac344514b
+0x19b37b87eabea09b1067c921f7bde488ef0dd720
+0xb0ac0fe0cae2e4c260ecd6fb485883259d37cf76
+0x3fa5b3c2f4ed6c249b00b852806bbdae0623239a
+0x3c38de4820835cb64854d114f9122e199cebdf98 
+0x6e09ddc3535c5dccce5c4f8b683355155bdf38df
+# Description
+They all have 36-40 TX, acting like each other. L2pass, APT bridge, Stargate, Merkly, Tevaera, stargate. 
+Using layerzeroscan to check them all.
+
+ they all have same action at the same time, same protocol
+
+
+# Detailed Methodology & Walkthrough
+https://layerzeroscan.com/address/0x21c164f33fef2d72c9c7d703a19157fa2de9638c
+https://layerzeroscan.com/address/0x7664b3e97058768aab7e35a4faccf206d87941fe
+https://layerzeroscan.com/address/0x11ad13f699b3375173589df2d1202c985d762000
+https://layerzeroscan.com/address/0xc88923f4fb059df300cbd9667361cc457f78fec5
+https://layerzeroscan.com/address/0xb05df32751dee1ab3df184457149d0eb91ee3a4f
+https://layerzeroscan.com/address/0x0c474aec469e8a7ec6647ff510b22feea7add7e7
+https://layerzeroscan.com/address/0x509b99b47f20df1e6a3d0fe3c99b4836a9933554
+https://layerzeroscan.com/address/0x75121818f53a096c7ca0aec8cf628fbee1a283a9
+https://layerzeroscan.com/address/0xed9de0cff5f9fad32192cf08f33ed674e13be18a
+https://layerzeroscan.com/address/0x28e37dcde1cb2f8884e932e367eec4428a972477
+https://layerzeroscan.com/address/0xc15aae2af578a81f8384f9d8063b7e2537e7a052
+https://layerzeroscan.com/address/0xa71c397da134e01d65e9ca2e0c9306f4954ac202
+https://layerzeroscan.com/address/0x2f5394d84cee418d16f1cd6671a8afbf91ae8b86
+https://layerzeroscan.com/address/0x3a1b87dcf327548ef63a7bab9a72aad978be6bab
+https://layerzeroscan.com/address/0xa6f0fba851abd47be805156393c8a88fec34affb
+https://layerzeroscan.com/address/0xba1e6599ca9e1e2c91a889029d9be77420d9d965
+https://layerzeroscan.com/address/0xeef0f654c3329a8afccfa4f3142aac21bea0eff0
+https://layerzeroscan.com/address/0x4fac269b2fd84d949bc5894faad684c9a491f7cc
+https://layerzeroscan.com/address/0x7ce605ded3566995cdf7210d225c948c1e4b3975
+https://layerzeroscan.com/address/0xf723675c2133b4bcebd65750e97d79a310ddb3d3
+https://layerzeroscan.com/address/0x1983473d2804c7472a2ae4fd7f4c92aac344514b
+https://layerzeroscan.com/address/0x19b37b87eabea09b1067c921f7bde488ef0dd720
+https://layerzeroscan.com/address/0xb0ac0fe0cae2e4c260ecd6fb485883259d37cf76
+https://layerzeroscan.com/address/0x3fa5b3c2f4ed6c249b00b852806bbdae0623239a
+https://layerzeroscan.com/address/0x3c38de4820835cb64854d114f9122e199cebdf98
+https://layerzeroscan.com/address/0x6e09ddc3535c5dccce5c4f8b683355155bdf38df
+
+# Reward Address (If Eligible)
+0x4942bebcb5e188A75dbBD1D843A84603A99055fB
+
+
+
